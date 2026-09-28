@@ -4,20 +4,19 @@ A data story on Saudi consumer card spending, May 2020 – July 2026, built from
 
 **Bottom line:** in-store card spending has matured (growth fell from ~20% to ~5% a year), but online Mada spending is growing ~46% a year and is now ~35% of Mada spend. Buraidah has overtaken Riyadh as the fastest-growing major city, and clothing & apparel is the strongest large sector.
 
-## The story in six acts
+## Revised findings (v2, after critique and GDP cross-check)
 
-| Act | Finding |
+| Topic | Finding |
 |---|---|
-| 1. The boom | Weekly in-store card spend rose from 7.6 bn SAR (2020) to 13.6 bn SAR (2025); 705 bn SAR in 2025. The average payment halved, 119 → 61 SAR. |
-| 2. The slowdown | Rolling 52-week growth fell from +20% (2022) to +4–6% (late 2025 – Mar 2026). |
-| 3. The plot twist | 12 months to Jul 2026: online Mada 387 bn SAR (+46%) vs in-store 732 bn SAR (+6%). |
-| 4. The map | Jul 2025 – Mar 2026 vs a year earlier: Buraidah +9.7%, Madinah +6.9%, Riyadh +5.2% (was +11%), Dammam +3.0%, Tabouk +0.2%. |
-| 5. The shelves | Clothing +24%, food & beverages +8%; furniture, electronics, recreation shrinking (splice-adjusted, indicative). |
-| 6. Filling the gap | City × sector spending estimated with iterative proportional fitting (raking). |
+| National | In-store card spending grew **+6.3%** (90% range 4.5–8.1%) in the 52 weeks to Feb 2026 vs a year earlier (Ramadan-aligned); **+4.2% after inflation**. |
+| Consumption | In-store cards plateaued at ~32% of household consumption since 2022; card growth now tracks consumption (+5.8% vs +5.4% in 2025). |
+| Online | Online Mada rose 128 bn SAR in 2025, more than all household consumption (+114 bn): a payment-method shift, not new demand. |
+| Cities | Buraidah fastest (+10.8%, first in 97% of bootstrap resamples); Riyadh +8.6%; Tabouk +2.9%. City growth rankings are only moderately persistent (rank correlation 0.38 latest year). |
+| Sectors | Like-for-like: gas +7.1%, food +5.2%, hotels +4.1%, restaurants +1.7%, health −5.4%. Clothing +7% to +18% (reclassified in Jul 2025). Jewelry +32% is all gold price (volume ≈ −12%). |
 
 ## Data
 
-All pulled with `fetch_data.py` (snapshots included in `data/raw/`):
+KAPSARC datasets are pulled with `fetch_data.py` (snapshots in `data/raw/`, all listed as Public Domain on the portal; sources: SAMA and GASTAT). CPI and gold series are in `data/external/` (see its README).
 
 | Dataset (KAPSARC id) | Use |
 |---|---|
@@ -27,23 +26,29 @@ All pulled with `fetch_data.py` (snapshots included in `data/raw/`):
 | `household-income-and-consumption-expenditure-survey` | 2023 regional spending mix (IPF seed), household income |
 | `saudi-arabia-population-by-administrative-region-nationality-and-sex` | 2024 population for per-capita spend |
 | `real-estate-indices-by-regions-2023-100` | Regional property price change (entry-cost proxy) |
+| `gross-domestic-product-by-expenditure-components-at-current-prices-2023-100` | Private final consumption benchmark |
+| `gross-domestic-product-by-kind-of-economic-activity-at-current-prices-2023-100` | Trade, restaurants & hotels value added |
+| `number-of-new-individual-proprietorships-by-region` | Business-formation proxy (2023) |
+| `population-by-detailed-age-gender-governorate-nationality-and-region` | Census 2022 population by governorate |
 
 ## Methods
 
-- **Linking series.** The old and detailed weekly datasets match exactly on the overlapping weeks (29 Jun and 6 Jul 2025), so national and city totals are concatenated directly.
-- **Sector splice.** SAMA redefined sector categories in the detailed dataset. Growth is adjusted by the new/old ratio on the two overlap weeks — indicative only.
-- **Seasonality.** Growth uses rolling 52-week sums or same-week-last-year comparisons so Ramadan and Eid shifts wash out.
-- **City × sector (IPF / raking).** Seed = each region's household spending share by COICOP division (HIES 2023), mapped to POS sectors; rows are raked to actual city totals and columns to actual national sector totals until both match. Output: `outputs/est_city_sector_bn.csv`. Within-cell splits are modelled, not observed.
+- **Ramadan-aligned windows.** Growth compares the 52 weeks ending the last full week before Ramadan with the same window a year earlier, so each holds one Ramadan and both Eids.
+- **Linking series.** National and city totals match on the overlap weeks (29 Jun, 6 Jul 2025); `build.py` asserts this.
+- **Sectors.** Food, restaurants (+ bakeries), hotels, gas, utilities and health (medical + pharmacy) match the old definitions exactly on the overlap weeks. Other sectors absorbed merchants from old "Other"/"Misc" and are spliced by their overlap ratio and flagged.
+- **Uncertainty.** Paired moving-block bootstrap (block 4 weeks, 4,000 draws) gives 90% ranges and city ranking probabilities.
+- **Real growth.** Deflated by GASTAT CPI (general index or matching division).
+- **Raking.** Region × sector via iterative proportional fitting with three seeds (survey base, alternative mapping, no survey) to show sensitivity. Output: `outputs/raking_region_sector_bn.csv`.
 
 ## Reproduce
 
 ```bash
 pip install -r requirements.txt
-python fetch_data.py                   # optional: refresh data/raw
-python src/01_trend_city_sector.py     # national trend, sector and city growth
-python src/02_ecommerce_ipf_proxies.py # e-commerce, IPF estimate, regional proxies
+python check_freshness.py   # is there newer data on the portal?
+python fetch_data.py        # optional: refresh data/raw
+python src/build.py         # writes outputs/results.json (every number in the report)
 ```
 
 ## Caveats
 
-Card-terminal and Mada data only (no cash, no non-Mada online cards); revenue, not profit; the sector splice rests on two overlap weeks; the IPF split depends on the 2023 survey's regional patterns. Not investment advice.
+Card-terminal and Mada data only (no cash, no non-Mada online cards); city = where the card is used (SAMA's assignment rule is undocumented); revenue, not profit; reclassified sectors rest on a two-week splice; raking tilts come only from the 2023 survey; no rents or competitor data. Not investment advice.

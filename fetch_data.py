@@ -10,6 +10,10 @@ DATASETS = [
     "household-income-and-consumption-expenditure-survey",     # GASTAT HIES 2023
     "saudi-arabia-population-by-administrative-region-nationality-and-sex",
     "real-estate-indices-by-regions-2023-100",
+    "gross-domestic-product-by-expenditure-components-at-current-prices-2023-100",   # GASTAT national accounts
+    "gross-domestic-product-by-kind-of-economic-activity-at-current-prices-2023-100",
+    "number-of-new-individual-proprietorships-by-region",
+    "population-by-detailed-age-gender-governorate-nationality-and-region",          # census 2022 by governorate
 ]
 
 os.makedirs("data/raw", exist_ok=True)
@@ -19,3 +23,6 @@ for ds in DATASETS:
     urllib.request.urlretrieve(BASE.format(ds), path)
     if ds.startswith("saudi-arabia-population"):  # drop the huge geo_shape column
         pd.read_csv(path, encoding="utf-8-sig", usecols=["date", "region", "gender", "value"]).to_csv(path, index=False)
+    if ds.startswith("population-by-detailed"):  # keep one row per governorate
+        g = pd.read_csv(path, encoding="utf-8-sig", low_memory=False)
+        g.groupby(["region", "governorate"], as_index=False).population.sum().to_csv(path, index=False)

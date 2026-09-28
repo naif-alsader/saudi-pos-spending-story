@@ -1,0 +1,151 @@
+region,governorate,population
+Al Bahah,Al Aqiq,36823
+Al Bahah,Al Bahah,89056
+Al Bahah,Al Hajrah,11248
+Al Bahah,Al Mandaq,18633
+Al Bahah,Al Mukhwah,46824
+Al Bahah,Al Qara,18893
+Al Bahah,Bani Hasan,14569
+Al Bahah,Biljurashi,50253
+Al Bahah,Farat Ghamid Az Zinad,11982
+Al Bahah,Qilwah,29368
+Al Jawf,Al Qurayyat,193223
+Al Jawf,Dawamat Al Jandal,53589
+Al Jawf,Sakaka,234947
+Al Jawf,Tubarjal,107362
+Al Madinah Al Munawwarah,Al Hinakiyah,41622
+Al Madinah Al Munawwarah,Al Is,21736
+Al Madinah Al Munawwarah,Al Madinah Al Munawwarah,1469141
+Al Madinah Al Munawwarah,Al Mahd,48191
+Al Madinah Al Munawwarah,Al Ula,57904
+Al Madinah Al Munawwarah,Badr,57426
+Al Madinah Al Munawwarah,Khaybar,44852
+Al Madinah Al Munawwarah,Wadi Al Fara,22074
+Al Madinah Al Munawwarah,Yanbu,358823
+Al Qaseem,Al Asyah,34470
+Al Qaseem,Al Badai,52619
+Al Qaseem,Al Bukayriyah,62562
+Al Qaseem,Al Midhnab,41668
+Al Qaseem,An Nabhaniyah,45504
+Al Qaseem,Ar Rass,118171
+Al Qaseem,Ash Shimasiyah,7321
+Al Qaseem,Buraydah,675582
+Al Qaseem,Dariyah,20139
+Al Qaseem,Riyadh Al Khabra,29760
+Al Qaseem,Unayzah,182366
+Al Qaseem,Uqlat As Suqur,19702
+Al Qaseem,Uyun Al Jiwa,28188
+Ar Riyadh,Ad Dilam,53452
+Ar Riyadh,Ad Diriyah,95092
+Ar Riyadh,Ad Duwadimi,200218
+Ar Riyadh,Afif,70856
+Ar Riyadh,Al Aflaj,53152
+Ar Riyadh,Al Ghat,9942
+Ar Riyadh,Al Hariq,9745
+Ar Riyadh,Al Kharj,372983
+Ar Riyadh,Al Majmaah,151379
+Ar Riyadh,Al Muzahimiyah,62329
+Ar Riyadh,Al Quwayiyah,70049
+Ar Riyadh,Ar Rayn,27246
+Ar Riyadh,Ar Riyadh,6957700
+Ar Riyadh,As Sulayyil,33722
+Ar Riyadh,Az Zulfi,73457
+Ar Riyadh,Duruma,25293
+Ar Riyadh,Hawtat Bani Tamim,40528
+Ar Riyadh,Huraymila,21139
+Ar Riyadh,Marat,8932
+Ar Riyadh,Rumah,34999
+Ar Riyadh,Shaqra,45236
+Ar Riyadh,Thadiq,12146
+Ar Riyadh,Wadi Ad Dawasir,89889
+Aseer,Abha,417915
+Aseer,Ahad Rufaydah,106804
+Aseer,Al Amoah,10031
+Aseer,Al Birk,22108
+Aseer,Al Harjah,17042
+Aseer,Al Majardah,47685
+Aseer,An Namas,36564
+Aseer,Balqarn,58914
+Aseer,Bariq,43770
+Aseer,Bishah,200987
+Aseer,Khamis Mushayt,600997
+Aseer,Muhayil,227874
+Aseer,Rijal Al Ma,48080
+Aseer,Sarat Abidah,55486
+Aseer,Tanumah,16856
+Aseer,Tarib,21467
+Aseer,Tathlith,35151
+Aseer,Zahran Al Janub,31150
+Eastern Region,Ad Dammam,1532004
+Eastern Region,Al Ahsa,1097216
+Eastern Region,Al Jubayl,505098
+Eastern Region,Al Khafji,83092
+Eastern Region,Al Khubar,656454
+Eastern Region,Al Nuayriyah,61909
+Eastern Region,Al Qatif,551392
+Eastern Region,Al Udayd,7974
+Eastern Region,Buqayq,62555
+Eastern Region,Hafar Al Batin,463952
+Eastern Region,Qaryah Al Ulya,20660
+Eastern Region,Ras Tannurah,60739
+Hail,Al Ghazalah,12282
+Hail,Al Hait,73858
+Hail,As Sulaymi,16705
+Hail,Ash Shamli,20283
+Hail,Ash Shinan,27534
+Hail,Baqa,54559
+Hail,Hail,497665
+Hail,Mawqaq,16070
+Hail,Simira,18924
+Jazan,Abu Arish,183747
+Jazan,Ad Dair,45818
+Jazan,Ad Darb,65891
+Jazan,Ahad Al Masarihah,127142
+Jazan,Al Aridah,78806
+Jazan,Al Aydabi,31943
+Jazan,Al Harth,10694
+Jazan,Ar Rayth,15987
+Jazan,At Tuwal,34902
+Jazan,Baysh,85883
+Jazan,Damad,62673
+Jazan,Farasan,12808
+Jazan,Fayfa,18504
+Jazan,Harub,29432
+Jazan,Jazan,200655
+Jazan,Sabya,221297
+Jazan,Samtah,152652
+Makkah Al Mukarramah,Adam,32544
+Makkah Al Mukarramah,Al Ardiyat,63930
+Makkah Al Mukarramah,Al Jumum,86922
+Makkah Al Mukarramah,Al Kamil,13487
+Makkah Al Mukarramah,Al Khurmah,37601
+Makkah Al Mukarramah,Al Lith,73198
+Makkah Al Mukarramah,Al Muwayh,28346
+Makkah Al Mukarramah,Al Qunfudhah,204188
+Makkah Al Mukarramah,Al Taif,913020
+Makkah Al Mukarramah,Bahrah,94225
+Makkah Al Mukarramah,Jeddah,3751622
+Makkah Al Mukarramah,Khulays,49609
+Makkah Al Mukarramah,Makkah Al Mukarramah,2427850
+Makkah Al Mukarramah,Maysan,27867
+Makkah Al Mukarramah,Rabigh,111527
+Makkah Al Mukarramah,Ranyah,48583
+Makkah Al Mukarramah,Turubah,39998
+Najran,Badr Al Janub,7458
+Najran,Hubuna,24086
+Najran,Khubash,7410
+Najran,Najran,421425
+Najran,Sharurah,98940
+Najran,Thar,12565
+Najran,Yadamah,15695
+Northern Borders,Al Uwayqilah,19553
+Northern Borders,Arar,201173
+Northern Borders,Rafha,83259
+Northern Borders,Turayf,64213
+Tabuk,Al Bad,16959
+Tabuk,Al Wajh,48052
+Tabuk,Duba,52883
+Tabuk,Haqil,26124
+Tabuk,Tabuk,623481
+Tabuk,Tayma,40307
+Tabuk,Umluj,68387

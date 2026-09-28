@@ -1,0 +1,1759 @@
+{
+ "as_of": {
+  "weekly_pos_last_week": "2026-03-22"
+ },
+ "headline": {
+  "definition": "rolling 52-week sum vs the previous 52 weeks, value of in-store card transactions",
+  "last_week": "2026-03-22",
+  "value_growth_pct": 4.2,
+  "count_growth_pct": 10.7,
+  "value_52w_bn": 711.2
+ },
+ "quarterly_growth": [
+  {
+   "q": "2022 Q2",
+   "value": 20.4,
+   "count": 52.5
+  },
+  {
+   "q": "2022 Q3",
+   "value": 19.3,
+   "count": 45.6
+  },
+  {
+   "q": "2022 Q4",
+   "value": 18.0,
+   "count": 40.1
+  },
+  {
+   "q": "2023 Q1",
+   "value": 15.0,
+   "count": 32.9
+  },
+  {
+   "q": "2023 Q2",
+   "value": 13.4,
+   "count": 29.7
+  },
+  {
+   "q": "2023 Q3",
+   "value": 10.9,
+   "count": 26.1
+  },
+  {
+   "q": "2023 Q4",
+   "value": 9.7,
+   "count": 23.3
+  },
+  {
+   "q": "2024 Q1",
+   "value": 10.0,
+   "count": 22.1
+  },
+  {
+   "q": "2024 Q2",
+   "value": 9.3,
+   "count": 19.6
+  },
+  {
+   "q": "2024 Q3",
+   "value": 8.7,
+   "count": 17.1
+  },
+  {
+   "q": "2024 Q4",
+   "value": 8.4,
+   "count": 15.1
+  },
+  {
+   "q": "2025 Q1",
+   "value": 7.2,
+   "count": 13.3
+  },
+  {
+   "q": "2025 Q2",
+   "value": 7.2,
+   "count": 12.6
+  },
+  {
+   "q": "2025 Q3",
+   "value": 7.1,
+   "count": 12.3
+  },
+  {
+   "q": "2025 Q4",
+   "value": 6.2,
+   "count": 11.6
+  },
+  {
+   "q": "2026 Q1",
+   "value": 4.2,
+   "count": 10.7
+  }
+ ],
+ "annual": [
+  {
+   "year": 2020,
+   "weeks": 34,
+   "avg_week_bn": 7.6,
+   "ticket_sar": 119.0,
+   "total_bn": 258.0
+  },
+  {
+   "year": 2021,
+   "weeks": 52,
+   "avg_week_bn": 9.1,
+   "ticket_sar": 91.0,
+   "total_bn": 472.0
+  },
+  {
+   "year": 2022,
+   "weeks": 52,
+   "avg_week_bn": 10.7,
+   "ticket_sar": 77.0,
+   "total_bn": 557.0
+  },
+  {
+   "year": 2023,
+   "weeks": 53,
+   "avg_week_bn": 11.8,
+   "ticket_sar": 68.0,
+   "total_bn": 624.0
+  },
+  {
+   "year": 2024,
+   "weeks": 52,
+   "avg_week_bn": 12.8,
+   "ticket_sar": 64.0,
+   "total_bn": 664.0
+  },
+  {
+   "year": 2025,
+   "weeks": 52,
+   "avg_week_bn": 13.6,
+   "ticket_sar": 61.0,
+   "total_bn": 705.0
+  },
+  {
+   "year": 2026,
+   "weeks": 12,
+   "avg_week_bn": 14.7,
+   "ticket_sar": 64.0,
+   "total_bn": 177.0
+  }
+ ],
+ "national_hijri": [
+  {
+   "window_end": "2023-03-12",
+   "value_growth": 15.8,
+   "lo": 13.8,
+   "hi": 17.8,
+   "count_growth": 33.9
+  },
+  {
+   "window_end": "2024-03-03",
+   "value_growth": 9.5,
+   "lo": 8.2,
+   "hi": 11.0,
+   "count_growth": 21.8
+  },
+  {
+   "window_end": "2025-02-16",
+   "value_growth": 7.4,
+   "lo": 6.0,
+   "hi": 9.0,
+   "count_growth": 13.2,
+   "cpi_yoy_avg": 1.5,
+   "real_value_growth": 5.8
+  },
+  {
+   "window_end": "2026-02-08",
+   "value_growth": 6.3,
+   "lo": 4.5,
+   "hi": 8.1,
+   "count_growth": 11.4,
+   "cpi_yoy_avg": 2.1,
+   "real_value_growth": 4.2
+  }
+ ],
+ "city_growth": {
+  "Riyadh": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 16.8,
+    "lo": 15.4,
+    "hi": 18.1
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 15.1,
+    "lo": 13.9,
+    "hi": 16.6
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 10.7,
+    "lo": 9.4,
+    "hi": 12.3
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 8.6,
+    "lo": 6.5,
+    "hi": 10.7
+   }
+  ],
+  "Jeddah": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 10.5,
+    "lo": 7.5,
+    "hi": 14.1
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 2.7,
+    "lo": 0.6,
+    "hi": 4.7
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 5.6,
+    "lo": 4.2,
+    "hi": 7.2
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 5.8,
+    "lo": 3.9,
+    "hi": 7.8
+   }
+  ],
+  "Dammam": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 15.6,
+    "lo": 12.8,
+    "hi": 18.9
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 2.9,
+    "lo": 1.6,
+    "hi": 4.4
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 6.0,
+    "lo": 4.6,
+    "hi": 7.8
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 6.1,
+    "lo": 4.0,
+    "hi": 8.1
+   }
+  ],
+  "Makkah": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 34.4,
+    "lo": 29.2,
+    "hi": 40.7
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 14.0,
+    "lo": 11.3,
+    "hi": 16.4
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 6.9,
+    "lo": 4.4,
+    "hi": 10.3
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 7.8,
+    "lo": 5.2,
+    "hi": 10.2
+   }
+  ],
+  "Madinah": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 21.0,
+    "lo": 18.7,
+    "hi": 23.4
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 11.1,
+    "lo": 9.2,
+    "hi": 13.4
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 8.2,
+    "lo": 6.1,
+    "hi": 10.4
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 7.6,
+    "lo": 5.2,
+    "hi": 9.9
+   }
+  ],
+  "Khobar": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 5.7,
+    "lo": 4.3,
+    "hi": 7.2
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 4.9,
+    "lo": 3.7,
+    "hi": 6.5
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 5.4,
+    "lo": 4.0,
+    "hi": 7.2
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 7.0,
+    "lo": 5.1,
+    "hi": 9.0
+   }
+  ],
+  "Buraidah": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 13.4,
+    "lo": 11.4,
+    "hi": 15.6
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 6.2,
+    "lo": 4.9,
+    "hi": 7.6
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 6.3,
+    "lo": 4.8,
+    "hi": 8.0
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 10.8,
+    "lo": 8.7,
+    "hi": 12.8
+   }
+  ],
+  "Tabouk": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 16.4,
+    "lo": 13.3,
+    "hi": 19.6
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 10.9,
+    "lo": 9.0,
+    "hi": 13.2
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 9.5,
+    "lo": 7.5,
+    "hi": 11.7
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 2.9,
+    "lo": 0.6,
+    "hi": 5.3
+   }
+  ],
+  "Hail": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 16.2,
+    "lo": 13.9,
+    "hi": 18.5
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 6.9,
+    "lo": 5.3,
+    "hi": 8.7
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 5.6,
+    "lo": 4.0,
+    "hi": 7.4
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 5.7,
+    "lo": 3.3,
+    "hi": 7.9
+   }
+  ],
+  "Abha": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 9.5,
+    "lo": 4.4,
+    "hi": 14.9
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 3.8,
+    "lo": 2.5,
+    "hi": 5.3
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 2.3,
+    "lo": -1.0,
+    "hi": 6.1
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 4.1,
+    "lo": -0.7,
+    "hi": 9.8
+   }
+  ],
+  "Other cities": [
+   {
+    "window_end": "2023-03-12",
+    "growth": 16.5,
+    "lo": 14.0,
+    "hi": 18.7
+   },
+   {
+    "window_end": "2024-03-03",
+    "growth": 8.4,
+    "lo": 7.1,
+    "hi": 10.1
+   },
+   {
+    "window_end": "2025-02-16",
+    "growth": 5.2,
+    "lo": 3.5,
+    "hi": 7.1
+   },
+   {
+    "window_end": "2026-02-08",
+    "growth": 3.6,
+    "lo": 0.9,
+    "hi": 5.9
+   }
+  ]
+ },
+ "city_rank_probability": {
+  "Riyadh": {
+   "p_first": 0.5,
+   "p_top3": 84.9
+  },
+  "Jeddah": {
+   "p_first": 0.0,
+   "p_top3": 0.0
+  },
+  "Dammam": {
+   "p_first": 0.0,
+   "p_top3": 0.0
+  },
+  "Makkah": {
+   "p_first": 0.0,
+   "p_top3": 47.9
+  },
+  "Madinah": {
+   "p_first": 0.0,
+   "p_top3": 31.0
+  },
+  "Khobar": {
+   "p_first": 0.0,
+   "p_top3": 24.5
+  },
+  "Buraidah": {
+   "p_first": 96.8,
+   "p_top3": 100.0
+  },
+  "Tabouk": {
+   "p_first": 0.0,
+   "p_top3": 0.0
+  },
+  "Hail": {
+   "p_first": 0.0,
+   "p_top3": 0.4
+  },
+  "Abha": {
+   "p_first": 2.6,
+   "p_top3": 11.2
+  }
+ },
+ "city_level_latest_window_bn": {
+  "Riyadh": 247.0,
+  "Jeddah": 99.7,
+  "Dammam": 35.1,
+  "Makkah": 30.1,
+  "Madinah": 28.6,
+  "Khobar": 20.4,
+  "Buraidah": 17.5,
+  "Tabouk": 13.1,
+  "Hail": 11.4,
+  "Abha": 9.1,
+  "Other cities": 202.7
+ },
+ "city_rank_persistence": [
+  {
+   "from": "2023-03-12",
+   "to": "2024-03-03",
+   "spearman": 0.82,
+   "top3_kept": 3,
+   "top1_then": "Makkah",
+   "top1_rank_next": 2
+  },
+  {
+   "from": "2024-03-03",
+   "to": "2025-02-16",
+   "spearman": 0.79,
+   "top3_kept": 2,
+   "top1_then": "Riyadh",
+   "top1_rank_next": 1
+  },
+  {
+   "from": "2025-02-16",
+   "to": "2026-02-08",
+   "spearman": 0.38,
+   "top3_kept": 1,
+   "top1_then": "Riyadh",
+   "top1_rank_next": 2
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "Food & beverages",
+   "kind": "exact",
+   "overlap_ratio": 1.0,
+   "growth_2026": 5.2,
+   "lo_2026": 2.6,
+   "hi_2026": 7.1,
+   "growth_2025": 3.7,
+   "level_new_def_bn": 79.5,
+   "price_yoy_2026": 1.0,
+   "real_2026": 4.1
+  },
+  {
+   "sector": "Restaurants, cafes & bakeries",
+   "kind": "exact",
+   "overlap_ratio": 1.0,
+   "growth_2026": 1.7,
+   "lo_2026": 0.2,
+   "hi_2026": 3.4,
+   "growth_2025": 6.2,
+   "level_new_def_bn": 70.7,
+   "price_yoy_2026": 1.6,
+   "real_2026": 0.1
+  },
+  {
+   "sector": "Hotels",
+   "kind": "exact",
+   "overlap_ratio": 1.0,
+   "growth_2026": 4.1,
+   "lo_2026": 0.7,
+   "hi_2026": 8.3,
+   "growth_2025": 2.6,
+   "level_new_def_bn": 12.5,
+   "price_yoy_2026": 1.6,
+   "real_2026": 2.4
+  },
+  {
+   "sector": "Gas stations",
+   "kind": "exact",
+   "overlap_ratio": 1.001,
+   "growth_2026": 7.1,
+   "lo_2026": 4.6,
+   "hi_2026": 10.7,
+   "growth_2025": 14.8,
+   "level_new_def_bn": 35.1,
+   "price_yoy_2026": 0.8,
+   "real_2026": 6.2
+  },
+  {
+   "sector": "Public utilities",
+   "kind": "exact",
+   "overlap_ratio": 1.0,
+   "growth_2026": -22.2,
+   "lo_2026": -28.9,
+   "hi_2026": -15.2,
+   "growth_2025": -40.4,
+   "level_new_def_bn": 1.9,
+   "price_yoy_2026": 5.6,
+   "real_2026": -26.3
+  },
+  {
+   "sector": "Health (medical & pharmacy)",
+   "kind": "exact",
+   "overlap_ratio": 1.027,
+   "growth_2026": -5.4,
+   "lo_2026": -9.1,
+   "hi_2026": -1.7,
+   "growth_2025": 4.7,
+   "level_new_def_bn": 27.2,
+   "price_yoy_2026": -0.1,
+   "real_2026": -5.3
+  },
+  {
+   "sector": "Clothing & apparel",
+   "kind": "reclassified",
+   "overlap_ratio": 1.06,
+   "growth_2026": 18.1,
+   "lo_2026": 11.7,
+   "hi_2026": 24.5,
+   "growth_2025": 7.2,
+   "level_new_def_bn": 46.8,
+   "old_def_52w_to_jul2025": 9.6,
+   "price_yoy_2026": 0.1,
+   "real_2026": 18.0
+  },
+  {
+   "sector": "Jewelry",
+   "kind": "reclassified",
+   "overlap_ratio": 1.083,
+   "growth_2026": 31.9,
+   "lo_2026": 23.2,
+   "hi_2026": 39.1,
+   "growth_2025": 16.1,
+   "level_new_def_bn": 15.8,
+   "old_def_52w_to_jul2025": 27.6,
+   "price_yoy_2026": 5.7,
+   "real_2026": 24.7
+  },
+  {
+   "sector": "Furniture",
+   "kind": "reclassified",
+   "overlap_ratio": 1.785,
+   "growth_2026": -4.1,
+   "lo_2026": -7.2,
+   "hi_2026": -1.5,
+   "growth_2025": 1.0,
+   "level_new_def_bn": 19.6,
+   "old_def_52w_to_jul2025": 0.4,
+   "price_yoy_2026": -0.6,
+   "real_2026": -3.5
+  },
+  {
+   "sector": "Electronics",
+   "kind": "reclassified",
+   "overlap_ratio": 1.08,
+   "growth_2026": -17.0,
+   "lo_2026": -23.0,
+   "hi_2026": -10.9,
+   "growth_2025": -12.6,
+   "level_new_def_bn": 7.1,
+   "old_def_52w_to_jul2025": -20.6,
+   "price_yoy_2026": -0.6,
+   "real_2026": -16.5
+  },
+  {
+   "sector": "Construction materials",
+   "kind": "reclassified",
+   "overlap_ratio": 1.226,
+   "growth_2026": -2.5,
+   "lo_2026": -4.2,
+   "hi_2026": -0.6,
+   "growth_2025": 0.3,
+   "level_new_def_bn": 15.0,
+   "old_def_52w_to_jul2025": 0.7,
+   "price_yoy_2026": 2.1,
+   "real_2026": -4.5
+  },
+  {
+   "sector": "Recreation & culture",
+   "kind": "reclassified",
+   "overlap_ratio": 1.307,
+   "growth_2026": -1.4,
+   "lo_2026": -5.5,
+   "hi_2026": 2.7,
+   "growth_2025": -4.6,
+   "level_new_def_bn": 13.0,
+   "old_def_52w_to_jul2025": -4.1,
+   "price_yoy_2026": 2.6,
+   "real_2026": -3.9
+  },
+  {
+   "sector": "Telecom",
+   "kind": "reclassified",
+   "overlap_ratio": 1.306,
+   "growth_2026": 10.8,
+   "lo_2026": 6.4,
+   "hi_2026": 14.6,
+   "growth_2025": 14.2,
+   "level_new_def_bn": 6.6,
+   "old_def_52w_to_jul2025": 11.7,
+   "price_yoy_2026": -0.3,
+   "real_2026": 11.2
+  },
+  {
+   "sector": "Education",
+   "kind": "reclassified",
+   "overlap_ratio": 1.099,
+   "growth_2026": 2.2,
+   "lo_2026": -23.3,
+   "hi_2026": 36.3,
+   "growth_2025": 2.5,
+   "level_new_def_bn": 8.5,
+   "old_def_52w_to_jul2025": 4.6,
+   "price_yoy_2026": 0.6,
+   "real_2026": 1.6
+  },
+  {
+   "sector": "Transportation",
+   "kind": "reclassified",
+   "overlap_ratio": 1.375,
+   "growth_2026": -0.1,
+   "lo_2026": -3.1,
+   "hi_2026": 2.8,
+   "growth_2025": 6.5,
+   "level_new_def_bn": 37.2,
+   "old_def_52w_to_jul2025": 4.7,
+   "price_yoy_2026": 0.8,
+   "real_2026": -0.9
+  },
+  {
+   "sector": "All reclassified sectors combined",
+   "kind": "pool",
+   "overlap_ratio": 0.997,
+   "growth_2026": 9.5,
+   "lo_2026": 6.8,
+   "hi_2026": 11.9,
+   "growth_2025": 9.2,
+   "level_new_def_bn": 293.1,
+   "price_yoy_2026": 2.1,
+   "real_2026": 7.3
+  }
+ ],
+ "sector_level_weeks": 37,
+ "sector_rank_persistence": [
+  {
+   "from": "2023-03-12",
+   "to": "2024-03-03",
+   "spearman": 0.78,
+   "top3_kept": 1,
+   "top3_then": [
+    "Education",
+    "Hotels",
+    "Miscellaneous Goods and Services"
+   ],
+   "top3_next": [
+    "Public Utilities",
+    "Hotels",
+    "Other"
+   ]
+  },
+  {
+   "from": "2024-03-03",
+   "to": "2025-02-16",
+   "spearman": 0.13,
+   "top3_kept": 0,
+   "top3_then": [
+    "Public Utilities",
+    "Hotels",
+    "Other"
+   ],
+   "top3_next": [
+    "Miscellaneous Goods and Services",
+    "Jewelry",
+    "Gas Stations"
+   ]
+  }
+ ],
+ "online_trailing_12m": {
+  "month": "2026-07",
+  "pos_bn": 732.0,
+  "ecom_bn": 387.0,
+  "pos_growth": 6.0,
+  "ecom_growth": 45.5,
+  "ecom_share_of_cards": 34.6
+ },
+ "ecom_monthly_bn": {
+  "2024-10": 18.3,
+  "2024-11": 17.4,
+  "2024-12": 19.4,
+  "2025-01": 20.9,
+  "2025-02": 20.9,
+  "2025-03": 27.5,
+  "2025-04": 23.3,
+  "2025-05": 27.4,
+  "2025-06": 26.0,
+  "2025-07": 29.9,
+  "2025-08": 29.3,
+  "2025-09": 29.1,
+  "2025-10": 30.7,
+  "2025-11": 29.1,
+  "2025-12": 31.1
+ },
+ "online_semiannual": [
+  {
+   "m": "2020-01-01",
+   "pos": 295.0,
+   "ecom": 12.0
+  },
+  {
+   "m": "2020-07-01",
+   "pos": 315.0,
+   "ecom": 26.0
+  },
+  {
+   "m": "2021-01-01",
+   "pos": 366.0,
+   "ecom": 41.0
+  },
+  {
+   "m": "2021-07-01",
+   "pos": 436.0,
+   "ecom": 57.0
+  },
+  {
+   "m": "2022-01-01",
+   "pos": 480.0,
+   "ecom": 78.0
+  },
+  {
+   "m": "2022-07-01",
+   "pos": 524.0,
+   "ecom": 103.0
+  },
+  {
+   "m": "2023-01-01",
+   "pos": 564.0,
+   "ecom": 126.0
+  },
+  {
+   "m": "2023-07-01",
+   "pos": 593.0,
+   "ecom": 145.0
+  },
+  {
+   "m": "2024-01-01",
+   "pos": 619.0,
+   "ecom": 160.0
+  },
+  {
+   "m": "2024-07-01",
+   "pos": 646.0,
+   "ecom": 176.0
+  },
+  {
+   "m": "2025-01-01",
+   "pos": 673.0,
+   "ecom": 204.0
+  },
+  {
+   "m": "2025-07-01",
+   "pos": 691.0,
+   "ecom": 266.0
+  },
+  {
+   "m": "2026-01-01",
+   "pos": 713.0,
+   "ecom": 337.0
+  },
+  {
+   "m": "2026-07-01",
+   "pos": 732.0,
+   "ecom": 387.0
+  }
+ ],
+ "consumption": [
+  {
+   "year": 2016,
+   "pfce_bn": 1207.0,
+   "pos_bn": 183.0,
+   "ecom_bn": 0.0,
+   "pos_share": 15.1,
+   "all_share": 15.1,
+   "pfce_g": null,
+   "pos_g": null,
+   "ecom_g": null,
+   "all_g": null,
+   "trade_va_g": null,
+   "ecom_avg_ticket_sar": null,
+   "pos_avg_ticket_sar": 348.0
+  },
+  {
+   "year": 2017,
+   "pfce_bn": 1277.0,
+   "pos_bn": 200.0,
+   "ecom_bn": 0.0,
+   "pos_share": 15.7,
+   "all_share": 15.7,
+   "pfce_g": 5.9,
+   "pos_g": 9.7,
+   "ecom_g": null,
+   "all_g": 9.7,
+   "trade_va_g": 3.0,
+   "ecom_avg_ticket_sar": null,
+   "pos_avg_ticket_sar": 283.0
+  },
+  {
+   "year": 2018,
+   "pfce_bn": 1414.0,
+   "pos_bn": 232.0,
+   "ecom_bn": 0.0,
+   "pos_share": 16.4,
+   "all_share": 16.4,
+   "pfce_g": 10.7,
+   "pos_g": 15.9,
+   "ecom_g": null,
+   "all_g": 15.9,
+   "trade_va_g": 2.6,
+   "ecom_avg_ticket_sar": null,
+   "pos_avg_ticket_sar": 225.0
+  },
+  {
+   "year": 2019,
+   "pfce_bn": 1475.0,
+   "pos_bn": 288.0,
+   "ecom_bn": 10.0,
+   "pos_share": 19.5,
+   "all_share": 20.2,
+   "pfce_g": 4.3,
+   "pos_g": 23.9,
+   "ecom_g": null,
+   "all_g": 28.3,
+   "trade_va_g": 10.1,
+   "ecom_avg_ticket_sar": 269.0,
+   "pos_avg_ticket_sar": 177.0
+  },
+  {
+   "year": 2020,
+   "pfce_bn": 1418.0,
+   "pos_bn": 357.0,
+   "ecom_bn": 39.0,
+   "pos_share": 25.2,
+   "all_share": 27.9,
+   "pfce_g": -3.9,
+   "pos_g": 24.2,
+   "ecom_g": 278.7,
+   "all_g": 32.9,
+   "trade_va_g": -8.5,
+   "ecom_avg_ticket_sar": 228.0,
+   "pos_avg_ticket_sar": 125.0
+  },
+  {
+   "year": 2021,
+   "pfce_bn": 1642.0,
+   "pos_bn": 473.0,
+   "ecom_bn": 74.0,
+   "pos_share": 28.8,
+   "all_share": 33.4,
+   "pfce_g": 15.8,
+   "pos_g": 32.5,
+   "ecom_g": 91.4,
+   "all_g": 38.2,
+   "trade_va_g": 17.2,
+   "ecom_avg_ticket_sar": 214.0,
+   "pos_avg_ticket_sar": 92.0
+  },
+  {
+   "year": 2022,
+   "pfce_bn": 1821.0,
+   "pos_bn": 559.0,
+   "ecom_bn": 123.0,
+   "pos_share": 30.7,
+   "all_share": 37.4,
+   "pfce_g": 10.9,
+   "pos_g": 18.1,
+   "ecom_g": 65.1,
+   "all_g": 24.5,
+   "trade_va_g": 14.4,
+   "ecom_avg_ticket_sar": 201.0,
+   "pos_avg_ticket_sar": 77.0
+  },
+  {
+   "year": 2023,
+   "pfce_bn": 1992.0,
+   "pos_bn": 614.0,
+   "ecom_bn": 157.0,
+   "pos_share": 30.8,
+   "all_share": 38.7,
+   "pfce_g": 9.4,
+   "pos_g": 9.8,
+   "ecom_g": 27.9,
+   "all_g": 13.1,
+   "trade_va_g": 12.7,
+   "ecom_avg_ticket_sar": 180.0,
+   "pos_avg_ticket_sar": 68.0
+  },
+  {
+   "year": 2024,
+   "pfce_bn": 2098.0,
+   "pos_bn": 668.0,
+   "ecom_bn": 197.0,
+   "pos_share": 31.9,
+   "all_share": 41.3,
+   "pfce_g": 5.3,
+   "pos_g": 8.8,
+   "ecom_g": 25.8,
+   "all_g": 12.3,
+   "trade_va_g": 8.4,
+   "ecom_avg_ticket_sar": 175.0,
+   "pos_avg_ticket_sar": 64.0
+  },
+  {
+   "year": 2025,
+   "pfce_bn": 2212.0,
+   "pos_bn": 707.0,
+   "ecom_bn": 325.0,
+   "pos_share": 32.0,
+   "all_share": 46.7,
+   "pfce_g": 5.4,
+   "pos_g": 5.8,
+   "ecom_g": 64.7,
+   "all_g": 19.3,
+   "trade_va_g": 7.9,
+   "ecom_avg_ticket_sar": 184.0,
+   "pos_avg_ticket_sar": 61.0
+  }
+ ],
+ "online_excess_over_consumption_bn": {
+  "year": 2025,
+  "ecom_increase_bn": 128.0,
+  "pfce_increase_bn": 114.0,
+  "pos_increase_bn": 39.0
+ },
+ "spend_per_resident": [
+  {
+   "city": "Jazan",
+   "sar_per_resident_yr": 42883.0,
+   "population_2022": 200655
+  },
+  {
+   "city": "Riyadh",
+   "sar_per_resident_yr": 36152.0,
+   "population_2022": 6957700
+  },
+  {
+   "city": "Khobar",
+   "sar_per_resident_yr": 31272.0,
+   "population_2022": 656454
+  },
+  {
+   "city": "Jeddah",
+   "sar_per_resident_yr": 26913.0,
+   "population_2022": 3751622
+  },
+  {
+   "city": "Buraidah",
+   "sar_per_resident_yr": 26727.0,
+   "population_2022": 675582
+  },
+  {
+   "city": "Khamis Mushait",
+   "sar_per_resident_yr": 25043.0,
+   "population_2022": 600997
+  },
+  {
+   "city": "Unaizah",
+   "sar_per_resident_yr": 24635.0,
+   "population_2022": 182366
+  },
+  {
+   "city": "Hail",
+   "sar_per_resident_yr": 23244.0,
+   "population_2022": 497665
+  },
+  {
+   "city": "Dammam",
+   "sar_per_resident_yr": 23148.0,
+   "population_2022": 1532004
+  },
+  {
+   "city": "Abha",
+   "sar_per_resident_yr": 21891.0,
+   "population_2022": 417915
+  },
+  {
+   "city": "Tabuk",
+   "sar_per_resident_yr": 21042.0,
+   "population_2022": 623481
+  },
+  {
+   "city": "Madinah",
+   "sar_per_resident_yr": 20308.0,
+   "population_2022": 1469141
+  },
+  {
+   "city": "Najran",
+   "sar_per_resident_yr": 19367.0,
+   "population_2022": 421425
+  },
+  {
+   "city": "Sakaka",
+   "sar_per_resident_yr": 18554.0,
+   "population_2022": 234947
+  },
+  {
+   "city": "Taif",
+   "sar_per_resident_yr": 18334.0,
+   "population_2022": 913020
+  },
+  {
+   "city": "Kharj",
+   "sar_per_resident_yr": 17224.0,
+   "population_2022": 372983
+  },
+  {
+   "city": "Hafar Al-Batin",
+   "sar_per_resident_yr": 16009.0,
+   "population_2022": 463952
+  },
+  {
+   "city": "Yanbu",
+   "sar_per_resident_yr": 15803.0,
+   "population_2022": 358823
+  },
+  {
+   "city": "Jubail",
+   "sar_per_resident_yr": 15371.0,
+   "population_2022": 505098
+  },
+  {
+   "city": "Makkah",
+   "sar_per_resident_yr": 13149.0,
+   "population_2022": 2427850
+  },
+  {
+   "city": "Al-Ahsa (Hofuf + Mubarraz)",
+   "sar_per_resident_yr": 9103.0,
+   "population_2022": 1097216
+  },
+  {
+   "city": "Qatif",
+   "sar_per_resident_yr": 8884.0,
+   "population_2022": 551392
+  }
+ ],
+ "spend_weeks": 37,
+ "regions": [
+  {
+   "region": "Riyadh",
+   "card_share_pct": 36.8,
+   "pop_share_pct": 27.0,
+   "sar_per_person_yr": 28214.0,
+   "hh_income_sar_month_2023": 14990.0,
+   "property_price_yoy": -4.4,
+   "new_proprietorships_per_1000": 8.39
+  },
+  {
+   "region": "Makkah",
+   "card_share_pct": 21.1,
+   "pop_share_pct": 24.8,
+   "sar_per_person_yr": 17560.0,
+   "hh_income_sar_month_2023": 10141.0,
+   "property_price_yoy": -0.7,
+   "new_proprietorships_per_1000": 7.2
+  },
+  {
+   "region": "Madinah",
+   "card_share_pct": 5.1,
+   "pop_share_pct": 6.6,
+   "sar_per_person_yr": 16101.0,
+   "hh_income_sar_month_2023": 9723.0,
+   "property_price_yoy": -5.0,
+   "new_proprietorships_per_1000": 7.39
+  },
+  {
+   "region": "Eastern",
+   "card_share_pct": 12.8,
+   "pop_share_pct": 16.1,
+   "sar_per_person_yr": 16495.0,
+   "hh_income_sar_month_2023": 11775.0,
+   "property_price_yoy": 6.9,
+   "new_proprietorships_per_1000": 7.1
+  },
+  {
+   "region": "Qassim",
+   "card_share_pct": 3.8,
+   "pop_share_pct": 4.1,
+   "sar_per_person_yr": 19146.0,
+   "hh_income_sar_month_2023": 10081.0,
+   "property_price_yoy": -5.1,
+   "new_proprietorships_per_1000": 9.68
+  },
+  {
+   "region": "Asir",
+   "card_share_pct": 4.4,
+   "pop_share_pct": 6.2,
+   "sar_per_person_yr": 14666.0,
+   "hh_income_sar_month_2023": 11264.0,
+   "property_price_yoy": 1.1,
+   "new_proprietorships_per_1000": 8.7
+  },
+  {
+   "region": "Tabuk",
+   "card_share_pct": 1.8,
+   "pop_share_pct": 2.7,
+   "sar_per_person_yr": 13569.0,
+   "hh_income_sar_month_2023": 11127.0,
+   "property_price_yoy": 1.5,
+   "new_proprietorships_per_1000": 8.66
+  },
+  {
+   "region": "Hail",
+   "card_share_pct": 1.6,
+   "pop_share_pct": 2.3,
+   "sar_per_person_yr": 14194.0,
+   "hh_income_sar_month_2023": 9269.0,
+   "property_price_yoy": -8.0,
+   "new_proprietorships_per_1000": 8.18
+  },
+  {
+   "region": "Northern Borders",
+   "card_share_pct": 0.6,
+   "pop_share_pct": 1.1,
+   "sar_per_person_yr": 11300.0,
+   "hh_income_sar_month_2023": 12868.0,
+   "property_price_yoy": -6.6,
+   "new_proprietorships_per_1000": 7.62
+  },
+  {
+   "region": "Jazan",
+   "card_share_pct": 2.3,
+   "pop_share_pct": 4.3,
+   "sar_per_person_yr": 11122.0,
+   "hh_income_sar_month_2023": 10763.0,
+   "property_price_yoy": -1.4,
+   "new_proprietorships_per_1000": 8.14
+  },
+  {
+   "region": "Najran",
+   "card_share_pct": 1.3,
+   "pop_share_pct": 1.8,
+   "sar_per_person_yr": 14517.0,
+   "hh_income_sar_month_2023": 7969.0,
+   "property_price_yoy": 3.5,
+   "new_proprietorships_per_1000": 10.12
+  },
+  {
+   "region": "Al-Baha",
+   "card_share_pct": 0.4,
+   "pop_share_pct": 1.0,
+   "sar_per_person_yr": 8447.0,
+   "hh_income_sar_month_2023": 11348.0,
+   "property_price_yoy": -9.2,
+   "new_proprietorships_per_1000": 6.7
+  },
+  {
+   "region": "Al-Jouf",
+   "card_share_pct": 1.2,
+   "pop_share_pct": 1.8,
+   "sar_per_person_yr": 13157.0,
+   "hh_income_sar_month_2023": 10686.0,
+   "property_price_yoy": -1.4,
+   "new_proprietorships_per_1000": 6.87
+  }
+ ],
+ "region_meta": {
+  "unassigned_share_pct": 6.8,
+  "property_quarter": "2026-03",
+  "proprietorship_year": 2023,
+  "population_year": 2024
+ },
+ "raking": [
+  {
+   "region": "Riyadh",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 16.97,
+   "bn_min": 16.86,
+   "bn_max": 17.28,
+   "index_base": 0.98,
+   "index_alt": 0.98
+  },
+  {
+   "region": "Riyadh",
+   "sector": "Food & Beverages",
+   "bn_base": 24.16,
+   "bn_min": 23.98,
+   "bn_max": 29.35,
+   "index_base": 0.82,
+   "index_alt": 0.82
+  },
+  {
+   "region": "Riyadh",
+   "sector": "Restaurants & Café",
+   "bn_base": 22.23,
+   "bn_min": 22.1,
+   "bn_max": 22.41,
+   "index_base": 0.99,
+   "index_alt": 0.99
+  },
+  {
+   "region": "Riyadh",
+   "sector": "Health",
+   "bn_base": 11.08,
+   "bn_min": 11.01,
+   "bn_max": 11.82,
+   "index_base": 0.94,
+   "index_alt": 0.93
+  },
+  {
+   "region": "Riyadh",
+   "sector": "Jewelry",
+   "bn_base": 6.55,
+   "bn_min": 5.68,
+   "bn_max": 6.55,
+   "index_base": 1.13,
+   "index_alt": 0.98
+  },
+  {
+   "region": "Riyadh",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 8.86,
+   "bn_min": 7.24,
+   "bn_max": 8.86,
+   "index_base": 1.22,
+   "index_alt": 1.22
+  },
+  {
+   "region": "Makkah",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 10.13,
+   "bn_min": 9.88,
+   "bn_max": 10.27,
+   "index_base": 1.03,
+   "index_alt": 1.04
+  },
+  {
+   "region": "Makkah",
+   "sector": "Food & Beverages",
+   "bn_base": 19.52,
+   "bn_min": 16.77,
+   "bn_max": 19.76,
+   "index_base": 1.16,
+   "index_alt": 1.18
+  },
+  {
+   "region": "Makkah",
+   "sector": "Restaurants & Café",
+   "bn_base": 13.02,
+   "bn_min": 12.81,
+   "bn_max": 13.2,
+   "index_base": 1.02,
+   "index_alt": 1.03
+  },
+  {
+   "region": "Makkah",
+   "sector": "Health",
+   "bn_base": 6.57,
+   "bn_min": 6.57,
+   "bn_max": 6.76,
+   "index_base": 0.97,
+   "index_alt": 0.99
+  },
+  {
+   "region": "Makkah",
+   "sector": "Jewelry",
+   "bn_base": 3.02,
+   "bn_min": 3.02,
+   "bn_max": 3.46,
+   "index_base": 0.91,
+   "index_alt": 1.04
+  },
+  {
+   "region": "Makkah",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 3.26,
+   "bn_min": 3.26,
+   "bn_max": 4.14,
+   "index_base": 0.79,
+   "index_alt": 0.8
+  },
+  {
+   "region": "Eastern",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 6.5,
+   "bn_min": 6.01,
+   "bn_max": 6.5,
+   "index_base": 1.08,
+   "index_alt": 1.07
+  },
+  {
+   "region": "Eastern",
+   "sector": "Food & Beverages",
+   "bn_base": 8.46,
+   "bn_min": 8.39,
+   "bn_max": 10.2,
+   "index_base": 0.83,
+   "index_alt": 0.82
+  },
+  {
+   "region": "Eastern",
+   "sector": "Restaurants & Café",
+   "bn_base": 8.24,
+   "bn_min": 7.79,
+   "bn_max": 8.24,
+   "index_base": 1.06,
+   "index_alt": 1.05
+  },
+  {
+   "region": "Eastern",
+   "sector": "Health",
+   "bn_base": 3.91,
+   "bn_min": 3.88,
+   "bn_max": 4.11,
+   "index_base": 0.95,
+   "index_alt": 0.94
+  },
+  {
+   "region": "Eastern",
+   "sector": "Jewelry",
+   "bn_base": 2.15,
+   "bn_min": 2.02,
+   "bn_max": 2.17,
+   "index_base": 1.06,
+   "index_alt": 1.07
+  },
+  {
+   "region": "Eastern",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 2.69,
+   "bn_min": 2.52,
+   "bn_max": 2.69,
+   "index_base": 1.07,
+   "index_alt": 1.06
+  },
+  {
+   "region": "Madinah",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 2.35,
+   "bn_min": 2.35,
+   "bn_max": 2.41,
+   "index_base": 0.98,
+   "index_alt": 0.98
+  },
+  {
+   "region": "Madinah",
+   "sector": "Food & Beverages",
+   "bn_base": 4.99,
+   "bn_min": 4.09,
+   "bn_max": 4.99,
+   "index_base": 1.22,
+   "index_alt": 1.22
+  },
+  {
+   "region": "Madinah",
+   "sector": "Restaurants & Café",
+   "bn_base": 3.81,
+   "bn_min": 3.12,
+   "bn_max": 3.81,
+   "index_base": 1.22,
+   "index_alt": 1.22
+  },
+  {
+   "region": "Madinah",
+   "sector": "Health",
+   "bn_base": 1.86,
+   "bn_min": 1.65,
+   "bn_max": 1.86,
+   "index_base": 1.13,
+   "index_alt": 1.13
+  },
+  {
+   "region": "Madinah",
+   "sector": "Jewelry",
+   "bn_base": 0.67,
+   "bn_min": 0.67,
+   "bn_max": 0.81,
+   "index_base": 0.83,
+   "index_alt": 0.98
+  },
+  {
+   "region": "Madinah",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 0.72,
+   "bn_min": 0.72,
+   "bn_max": 1.01,
+   "index_base": 0.72,
+   "index_alt": 0.72
+  },
+  {
+   "region": "Qassim",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 1.55,
+   "bn_min": 1.55,
+   "bn_max": 1.77,
+   "index_base": 0.88,
+   "index_alt": 0.88
+  },
+  {
+   "region": "Qassim",
+   "sector": "Food & Beverages",
+   "bn_base": 3.48,
+   "bn_min": 3.0,
+   "bn_max": 3.5,
+   "index_base": 1.16,
+   "index_alt": 1.17
+  },
+  {
+   "region": "Qassim",
+   "sector": "Restaurants & Café",
+   "bn_base": 1.56,
+   "bn_min": 1.56,
+   "bn_max": 2.29,
+   "index_base": 0.68,
+   "index_alt": 0.69
+  },
+  {
+   "region": "Qassim",
+   "sector": "Health",
+   "bn_base": 1.49,
+   "bn_min": 1.21,
+   "bn_max": 1.5,
+   "index_base": 1.23,
+   "index_alt": 1.24
+  },
+  {
+   "region": "Qassim",
+   "sector": "Jewelry",
+   "bn_base": 0.56,
+   "bn_min": 0.53,
+   "bn_max": 0.59,
+   "index_base": 0.94,
+   "index_alt": 0.88
+  },
+  {
+   "region": "Qassim",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 0.6,
+   "bn_min": 0.6,
+   "bn_max": 0.74,
+   "index_base": 0.81,
+   "index_alt": 0.82
+  },
+  {
+   "region": "Asir",
+   "sector": "Apparel, Clothing & Accessories",
+   "bn_base": 1.84,
+   "bn_min": 1.84,
+   "bn_max": 2.07,
+   "index_base": 0.89,
+   "index_alt": 0.89
+  },
+  {
+   "region": "Asir",
+   "sector": "Food & Beverages",
+   "bn_base": 4.06,
+   "bn_min": 3.51,
+   "bn_max": 4.06,
+   "index_base": 1.16,
+   "index_alt": 1.16
+  },
+  {
+   "region": "Asir",
+   "sector": "Restaurants & Café",
+   "bn_base": 2.11,
+   "bn_min": 2.11,
+   "bn_max": 2.68,
+   "index_base": 0.79,
+   "index_alt": 0.79
+  },
+  {
+   "region": "Asir",
+   "sector": "Health",
+   "bn_base": 2.2,
+   "bn_min": 1.42,
+   "bn_max": 2.2,
+   "index_base": 1.55,
+   "index_alt": 1.55
+  },
+  {
+   "region": "Asir",
+   "sector": "Jewelry",
+   "bn_base": 0.6,
+   "bn_min": 0.6,
+   "bn_max": 0.7,
+   "index_base": 0.87,
+   "index_alt": 0.89
+  },
+  {
+   "region": "Asir",
+   "sector": "Furniture & Home Supplies",
+   "bn_base": 0.75,
+   "bn_min": 0.75,
+   "bn_max": 0.87,
+   "index_base": 0.87,
+   "index_alt": 0.87
+  }
+ ],
+ "cpi_source_rows": 378,
+ "gold_vs_jewelry": {
+  "months": 27,
+  "corr_yoy": 0.44,
+  "series": [
+   {
+    "m": "2024-01",
+    "jewelry_yoy": 24.9,
+    "gold_yoy": 7.2
+   },
+   {
+    "m": "2024-02",
+    "jewelry_yoy": 12.6,
+    "gold_yoy": 9.1
+   },
+   {
+    "m": "2024-03",
+    "jewelry_yoy": 54.0,
+    "gold_yoy": 12.8
+   },
+   {
+    "m": "2024-04",
+    "jewelry_yoy": -20.1,
+    "gold_yoy": 16.6
+   },
+   {
+    "m": "2024-05",
+    "jewelry_yoy": 13.9,
+    "gold_yoy": 18.0
+   },
+   {
+    "m": "2024-06",
+    "jewelry_yoy": -4.5,
+    "gold_yoy": 19.7
+   },
+   {
+    "m": "2024-07",
+    "jewelry_yoy": -0.0,
+    "gold_yoy": 22.9
+   },
+   {
+    "m": "2024-08",
+    "jewelry_yoy": 15.1,
+    "gold_yoy": 28.7
+   },
+   {
+    "m": "2024-09",
+    "jewelry_yoy": 22.0,
+    "gold_yoy": 34.2
+   },
+   {
+    "m": "2024-10",
+    "jewelry_yoy": 8.6,
+    "gold_yoy": 40.4
+   },
+   {
+    "m": "2024-11",
+    "jewelry_yoy": 62.0,
+    "gold_yoy": 33.6
+   },
+   {
+    "m": "2024-12",
+    "jewelry_yoy": 40.0,
+    "gold_yoy": 30.7
+   },
+   {
+    "m": "2025-01",
+    "jewelry_yoy": 21.3,
+    "gold_yoy": 33.2
+   },
+   {
+    "m": "2025-02",
+    "jewelry_yoy": 12.9,
+    "gold_yoy": 43.1
+   },
+   {
+    "m": "2025-03",
+    "jewelry_yoy": 45.5,
+    "gold_yoy": 38.2
+   },
+   {
+    "m": "2025-04",
+    "jewelry_yoy": 20.4,
+    "gold_yoy": 38.0
+   },
+   {
+    "m": "2025-05",
+    "jewelry_yoy": 27.6,
+    "gold_yoy": 40.8
+   },
+   {
+    "m": "2025-06",
+    "jewelry_yoy": 25.8,
+    "gold_yoy": 44.1
+   },
+   {
+    "m": "2025-07",
+    "jewelry_yoy": 41.3,
+    "gold_yoy": 39.3
+   },
+   {
+    "m": "2025-08",
+    "jewelry_yoy": 26.2,
+    "gold_yoy": 36.3
+   },
+   {
+    "m": "2025-09",
+    "jewelry_yoy": 36.1,
+    "gold_yoy": 42.7
+   },
+   {
+    "m": "2025-10",
+    "jewelry_yoy": 53.9,
+    "gold_yoy": 50.9
+   },
+   {
+    "m": "2025-11",
+    "jewelry_yoy": 0.1,
+    "gold_yoy": 54.2
+   },
+   {
+    "m": "2025-12",
+    "jewelry_yoy": 20.5,
+    "gold_yoy": 62.7
+   },
+   {
+    "m": "2026-01",
+    "jewelry_yoy": 63.3,
+    "gold_yoy": 75.4
+   },
+   {
+    "m": "2026-02",
+    "jewelry_yoy": 48.4,
+    "gold_yoy": 73.4
+   },
+   {
+    "m": "2026-03",
+    "jewelry_yoy": 49.7,
+    "gold_yoy": 62.8
+   }
+  ],
+  "window_2025": {
+   "gold_price_growth": 27.9,
+   "jewelry_spend_growth": 16.1,
+   "implied_volume_growth": -9.2
+  },
+  "window_2026": {
+   "gold_price_growth": 50.6,
+   "jewelry_spend_growth": 31.9,
+   "implied_volume_growth": -12.4
+  },
+  "slope": 0.51,
+  "intercept": 7.5
+ }
+}
