@@ -1,0 +1,631 @@
+date,region,gender,value
+2024,Asir,Female,870944
+2024,Hail,Total,814935
+2024,Jazan,Female,641632
+2024,Al-Madinah,Female,913726
+2024,Al-Jawf,Total,643372
+2024,Total,Female,13384108
+2024,Riyadh,Total,9541926
+2024,Makkah,Male,5402469
+2024,Eastern Region,Male,3682642
+2024,Hail,Male,492621
+2024,Northern Borders,Male,235800
+2024,Jazan,Male,872824
+2024,Najran,Male,389449
+2024,Al-Bahah,Female,153016
+2024,Al-Bahah,Male,209316
+2024,Al-Bahah,Total,362332
+2024,Makkah,Total,8763473
+2024,Al-Qassim,Male,859804
+2024,Total,Total,35300280
+2024,Riyadh,Female,3478334
+2024,Riyadh,Male,6063592
+2024,Al-Madinah,Male,1416235
+2024,Al-Qassim,Total,1436277
+2024,Tabuk,Female,380852
+2024,Tabuk,Male,586005
+2024,Jazan,Total,1514456
+2024,Najran,Female,259595
+2024,Najran,Total,649044
+2024,Asir,Male,1327334
+2024,Al-Jawf,Male,378081
+2024,Total,Male,21916172
+2024,Al-Qassim,Female,576473
+2024,Northern Borders,Total,405862
+2024,Al-Jawf,Female,265291
+2024,Makkah,Female,3361004
+2024,Al-Madinah,Total,2329961
+2024,Eastern Region,Female,1990865
+2024,Eastern Region,Total,5673507
+2024,Asir,Total,2198278
+2024,Tabuk,Total,966857
+2024,Hail,Female,322314
+2024,Northern Borders,Female,170062
+2023,Eastern Region,Male,3474287
+2023,Hail,Female,312512
+2023,Hail,Total,780332
+2023,Northern Borders,Female,164278
+2023,Al-Madinah,Total,2231980
+2023,Total,Female,12907797
+2023,Riyadh,Female,3330616
+2023,Riyadh,Male,5720658
+2023,Makkah,Female,3240313
+2023,Jazan,Total,1459689
+2023,Najran,Total,619826
+2023,Al-Bahah,Male,202001
+2023,Al-Bahah,Total,351067
+2023,Al-Madinah,Female,885131
+2023,Eastern Region,Female,1918810
+2023,Al-Jawf,Female,257367
+2023,Al-Jawf,Male,361644
+2023,Makkah,Male,5143005
+2023,Total,Male,20794934
+2023,Riyadh,Total,9051274
+2023,Makkah,Total,8383318
+2023,Al-Madinah,Male,1346849
+2023,Al-Qassim,Total,1386788
+2023,Tabuk,Total,925520
+2023,Jazan,Male,837080
+2023,Al-Bahah,Female,149066
+2023,Asir,Female,847350
+2023,Asir,Total,2111520
+2023,Al-Qassim,Female,560104
+2023,Al-Qassim,Male,826684
+2023,Eastern Region,Total,5393097
+2023,Tabuk,Female,369212
+2023,Tabuk,Male,556308
+2023,Hail,Male,467820
+2023,Northern Borders,Male,225031
+2023,Northern Borders,Total,389309
+2023,Najran,Female,250429
+2023,Al-Jawf,Total,619011
+2023,Total,Total,33702731
+2023,Asir,Male,1264170
+2023,Jazan,Female,622609
+2023,Najran,Male,369397
+2022,Asir,Female,823254
+2022,Jazan,Male,800579
+2022,Najran,Female,242367
+2022,Najran,Total,592300
+2022,Al-Bahah,Female,144916
+2022,Asir,Male,1201031
+2022,Asir,Total,2024285
+2022,Tabuk,Female,358355
+2022,Hail,Total,746406
+2022,Al-Madinah,Female,859866
+2022,Al-Madinah,Total,2137983
+2022,Al-Qassim,Male,792227
+2022,Eastern Region,Male,3269878
+2022,Total,Female,12496629
+2022,Riyadh,Total,8591748
+2022,Makkah,Male,4878926
+2022,Al-Madinah,Male,1278117
+2022,Eastern Region,Female,1855376
+2022,Northern Borders,Female,159045
+2022,Jazan,Female,604418
+2022,Jazan,Total,1404997
+2022,Al-Jawf,Total,595822
+2022,Riyadh,Male,5382340
+2022,Makkah,Female,3142537
+2022,Al-Qassim,Female,543952
+2022,Tabuk,Male,527681
+2022,Northern Borders,Total,373577
+2022,Najran,Male,349933
+2022,Al-Bahah,Male,194258
+2022,Al-Bahah,Total,339174
+2022,Al-Jawf,Female,250135
+2022,Al-Jawf,Male,345687
+2022,Total,Male,19678595
+2022,Total,Total,32175224
+2022,Riyadh,Female,3209408
+2022,Makkah,Total,8021463
+2022,Al-Qassim,Total,1336179
+2022,Eastern Region,Total,5125254
+2022,Tabuk,Total,886036
+2022,Hail,Female,303000
+2022,Hail,Male,443406
+2022,Northern Borders,Male,214532
+2021,Riyadh,Female,3127492
+2021,Riyadh,Total,8175378
+2021,Tabuk,Male,500230
+2021,Hail,Female,295799
+2021,Northern Borders,Male,204269
+2021,Jazan,Female,591039
+2021,Jazan,Total,1355099
+2021,Najran,Female,236552
+2021,Najran,Total,567533
+2021,Al-Bahah,Male,186231
+2021,Makkah,Total,7692188
+2021,Al-Madinah,Male,1210314
+2021,Al-Qassim,Female,531890
+2021,Eastern Region,Total,4879962
+2021,Asir,Male,1138796
+2021,Hail,Male,419623
+2021,Jazan,Male,764060
+2021,Al-Bahah,Female,141602
+2021,Total,Female,12214836
+2021,Total,Male,18569547
+2021,Al-Bahah,Total,327833
+2021,Al-Jawf,Total,574894
+2021,Total,Total,30784383
+2021,Al-Madinah,Total,2053240
+2021,Al-Qassim,Male,757142
+2021,Northern Borders,Female,155142
+2021,Northern Borders,Total,359411
+2021,Eastern Region,Male,3069430
+2021,Asir,Female,804736
+2021,Asir,Total,1943532
+2021,Tabuk,Total,850859
+2021,Al-Jawf,Female,244843
+2021,Al-Jawf,Male,330051
+2021,Makkah,Female,3081654
+2021,Makkah,Male,4610534
+2021,Riyadh,Male,5047886
+2021,Najran,Male,330981
+2021,Tabuk,Female,350629
+2021,Hail,Total,715422
+2021,Al-Madinah,Female,842926
+2021,Al-Qassim,Total,1289032
+2021,Eastern Region,Female,1810532
+2020,Tabuk,Total,856497
+2020,Hail,Female,292905
+2020,Jazan,Total,1370141
+2020,Najran,Female,235576
+2020,Al-Bahah,Total,331305
+2020,Total,Female,12273683
+2020,Makkah,Male,4844627
+2020,Al-Qassim,Female,528447
+2020,Asir,Female,796741
+2020,Makkah,Total,7982529
+2020,Al-Madinah,Male,1250054
+2020,Al-Madinah,Total,2096074
+2020,Al-Qassim,Total,1310168
+2020,Eastern Region,Female,1809482
+2020,Hail,Male,427082
+2020,Northern Borders,Female,153783
+2020,Jazan,Male,781379
+2020,Al-Bahah,Female,140182
+2020,Al-Bahah,Male,191123
+2020,Al-Jawf,Total,579446
+2020,Jazan,Female,588762
+2020,Najran,Total,574344
+2020,Tabuk,Male,508941
+2020,Tabuk,Female,347556
+2020,Hail,Total,719987
+2020,Al-Jawf,Female,242820
+2020,Al-Jawf,Male,336626
+2020,Total,Male,19278827
+2020,Total,Total,31552510
+2020,Eastern Region,Total,4989327
+2020,Al-Madinah,Female,846020
+2020,Asir,Male,1161936
+2020,Asir,Total,1958677
+2020,Riyadh,Female,3153507
+2020,Najran,Male,338768
+2020,Northern Borders,Male,207824
+2020,Northern Borders,Total,361607
+2020,Eastern Region,Male,3179845
+2020,Al-Qassim,Male,781721
+2020,Makkah,Female,3137902
+2020,Riyadh,Male,5268901
+2020,Riyadh,Total,8422408
+2019,Eastern Region,Female,1728978
+2019,Eastern Region,Total,4740235
+2019,Tabuk,Male,484886
+2019,Riyadh,Total,7979262
+2019,Northern Borders,Total,346525
+2019,Najran,Total,548237
+2019,Makkah,Male,4622684
+2019,Al-Madinah,Total,2004830
+2019,Makkah,Female,2984872
+2019,Al-Madinah,Male,1192253
+2019,Al-Qassim,Female,509008
+2019,Eastern Region,Male,3011257
+2019,Tabuk,Female,335682
+2019,Al-Madinah,Female,812577
+2019,Riyadh,Female,2987880
+2019,Riyadh,Male,4991382
+2019,Asir,Total,1876328
+2019,Hail,Total,688236
+2019,Jazan,Male,749087
+2019,Jazan,Total,1315117
+2019,Total,Female,11719216
+2019,Total,Male,18344583
+2019,Najran,Female,225841
+2019,Al-Bahah,Male,184026
+2019,Al-Jawf,Female,234609
+2019,Al-Jawf,Male,322770
+2019,Total,Total,30063799
+2019,Al-Qassim,Total,1260269
+2019,Hail,Female,281998
+2019,Hail,Male,406238
+2019,Northern Borders,Male,198762
+2019,Asir,Female,768747
+2019,Asir,Male,1107581
+2019,Najran,Male,322396
+2019,Al-Bahah,Female,135231
+2019,Al-Qassim,Male,751261
+2019,Tabuk,Total,820568
+2019,Makkah,Total,7607556
+2019,Jazan,Female,566030
+2019,Al-Bahah,Total,319257
+2019,Al-Jawf,Total,557379
+2019,Northern Borders,Female,147763
+2018,Tabuk,Female,330172
+2018,Tabuk,Male,483820
+2018,Northern Borders,Male,198532
+2018,Total,Male,18580917
+2018,Total,Total,30196281
+2018,Makkah,Male,4728880
+2018,Al-Qassim,Male,760431
+2018,Asir,Total,1863690
+2018,Eastern Region,Male,3040049
+2018,Makkah,Female,2986458
+2018,Al-Qassim,Total,1261835
+2018,Eastern Region,Total,4746614
+2018,Tabuk,Total,813992
+2018,Asir,Female,755712
+2018,Northern Borders,Female,145098
+2018,Jazan,Female,558486
+2018,Jazan,Total,1310678
+2018,Najran,Male,322922
+2018,Al-Bahah,Male,185549
+2018,Eastern Region,Female,1706565
+2018,Najran,Total,545320
+2018,Al-Bahah,Total,318510
+2018,Total,Female,11615364
+2018,Al-Madinah,Female,806081
+2018,Al-Madinah,Male,1203803
+2018,Al-Madinah,Total,2009884
+2018,Riyadh,Female,2962360
+2018,Hail,Female,276918
+2018,Northern Borders,Total,343630
+2018,Jazan,Male,752192
+2018,Al-Jawf,Female,230751
+2018,Makkah,Total,7715338
+2018,Najran,Female,222398
+2018,Al-Bahah,Female,132961
+2018,Al-Jawf,Male,323254
+2018,Al-Jawf,Total,554005
+2018,Hail,Male,405193
+2018,Hail,Total,682111
+2018,Al-Qassim,Female,501404
+2018,Riyadh,Male,5068314
+2018,Riyadh,Total,8030674
+2018,Asir,Male,1107978
+2017,Eastern Region,Female,1700652
+2017,Tabuk,Male,492360
+2017,Tabuk,Total,818980
+2017,Riyadh,Male,5299559
+2017,Riyadh,Total,8275538
+2017,Northern Borders,Total,345347
+2017,Al-Bahah,Total,322779
+2017,Total,Female,11643858
+2017,Total,Total,30977355
+2017,Al-Madinah,Female,807945
+2017,Al-Madinah,Male,1245998
+2017,Asir,Male,1131799
+2017,Makkah,Male,4985062
+2017,Tabuk,Female,326620
+2017,Hail,Total,686058
+2017,Najran,Total,551172
+2017,Al-Bahah,Female,131580
+2017,Al-Jawf,Female,228117
+2017,Najran,Male,330549
+2017,Al-Jawf,Male,329935
+2017,Al-Jawf,Total,558052
+2017,Makkah,Female,3034695
+2017,Al-Madinah,Total,2053943
+2017,Hail,Female,273630
+2017,Northern Borders,Male,202053
+2017,Riyadh,Female,2975979
+2017,Northern Borders,Female,143294
+2017,Jazan,Female,555673
+2017,Jazan,Male,771241
+2017,Al-Bahah,Male,191199
+2017,Al-Qassim,Female,497660
+2017,Al-Qassim,Male,788176
+2017,Eastern Region,Male,3153138
+2017,Makkah,Total,8019757
+2017,Jazan,Total,1326914
+2017,Najran,Female,220623
+2017,Total,Male,19333497
+2017,Hail,Male,412428
+2017,Al-Qassim,Total,1285836
+2017,Eastern Region,Total,4853790
+2017,Asir,Female,747390
+2017,Asir,Total,1879189
+2016,Eastern Region,Total,4835564
+2016,Tabuk,Male,490280
+2016,Jazan,Total,1319680
+2016,Najran,Male,330112
+2016,Al-Bahah,Female,129090
+2016,Al-Jawf,Total,553527
+2016,Makkah,Male,5078850
+2016,Al-Madinah,Total,2050659
+2016,Asir,Female,732824
+2016,Eastern Region,Female,1665895
+2016,Eastern Region,Male,3169669
+2016,Tabuk,Total,810586
+2016,Riyadh,Total,8271126
+2016,Asir,Male,1130232
+2016,Tabuk,Female,320306
+2016,Northern Borders,Female,140025
+2016,Northern Borders,Male,201507
+2016,Jazan,Male,774052
+2016,Najran,Female,215846
+2016,Al-Bahah,Total,321992
+2016,Al-Jawf,Female,223573
+2016,Total,Total,30954198
+2016,Najran,Total,545958
+2016,Al-Bahah,Male,192902
+2016,Total,Female,11438886
+2016,Total,Male,19515312
+2016,Makkah,Female,2997760
+2016,Makkah,Total,8076610
+2016,Al-Qassim,Male,797180
+2016,Hail,Female,267808
+2016,Hail,Male,410500
+2016,Hail,Total,678308
+2016,Northern Borders,Total,341532
+2016,Jazan,Female,545628
+2016,Al-Jawf,Male,329954
+2016,Al-Madinah,Male,1254800
+2016,Al-Qassim,Total,1285600
+2016,Asir,Total,1863056
+2016,Al-Madinah,Female,795859
+2016,Al-Qassim,Female,488420
+2016,Riyadh,Female,2915852
+2016,Riyadh,Male,5355274
+2015,Hail,Male,391781
+2015,Najran,Male,315150
+2015,Makkah,Female,2938467
+2015,Al-Qassim,Female,476919
+2015,Asir,Male,1081509
+2015,Asir,Total,1796865
+2015,Eastern Region,Female,1622055
+2015,Makkah,Male,4869669
+2015,Al-Madinah,Total,1980839
+2015,Tabuk,Total,781281
+2015,Jazan,Female,532928
+2015,Jazan,Male,744964
+2015,Najran,Female,210051
+2015,Al-Jawf,Female,218125
+2015,Total,Female,11165469
+2015,Eastern Region,Total,4636295
+2015,Najran,Total,525201
+2015,Al-Jawf,Total,535411
+2015,Total,Total,29816382
+2015,Makkah,Total,7808136
+2015,Al-Madinah,Female,779283
+2015,Al-Madinah,Male,1201556
+2015,Al-Qassim,Male,769169
+2015,Hail,Total,652630
+2015,Riyadh,Male,5097211
+2015,Riyadh,Total,7933711
+2015,Asir,Female,715356
+2015,Tabuk,Male,468609
+2015,Hail,Female,260849
+2015,Northern Borders,Female,136175
+2015,Al-Bahah,Male,186469
+2015,Al-Jawf,Male,317286
+2015,Total,Male,18650913
+2015,Al-Qassim,Total,1246088
+2015,Tabuk,Female,312672
+2015,Riyadh,Female,2836500
+2015,Jazan,Total,1277892
+2015,Al-Bahah,Female,126089
+2015,Al-Bahah,Total,312558
+2015,Northern Borders,Male,193300
+2015,Northern Borders,Total,329475
+2015,Eastern Region,Male,3014240
+2014,Al-Madinah,Female,760099
+2014,Asir,Female,695716
+2014,Tabuk,Male,441005
+2014,Eastern Region,Total,4379894
+2014,Makkah,Male,4560595
+2014,Al-Madinah,Total,1888619
+2014,Riyadh,Female,2747551
+2014,Riyadh,Male,4742248
+2014,Hail,Male,368058
+2014,Northern Borders,Female,131968
+2014,Najran,Total,499520
+2014,Al-Bahah,Male,177206
+2014,Al-Jawf,Total,512630
+2014,Total,Male,17454672
+2014,Jazan,Male,705133
+2014,Najran,Male,295809
+2014,Makkah,Total,7428120
+2014,Al-Madinah,Male,1128520
+2014,Al-Qassim,Male,728293
+2014,Al-Qassim,Total,1192307
+2014,Hail,Female,253190
+2014,Hail,Total,621248
+2014,Northern Borders,Total,314614
+2014,Makkah,Female,2867525
+2014,Tabuk,Female,304143
+2014,Northern Borders,Male,182646
+2014,Jazan,Female,518591
+2014,Jazan,Total,1223724
+2014,Najran,Female,203711
+2014,Al-Bahah,Total,299886
+2014,Al-Jawf,Male,300479
+2014,Total,Total,28309273
+2014,Eastern Region,Female,1573262
+2014,Riyadh,Total,7489799
+2014,Al-Bahah,Female,122680
+2014,Al-Jawf,Female,212151
+2014,Total,Female,10854601
+2014,Al-Qassim,Female,464014
+2014,Eastern Region,Male,2806632
+2014,Asir,Male,1018048
+2014,Asir,Total,1713764
+2014,Tabuk,Total,745148
+2013,Eastern Region,Male,2729035
+2013,Riyadh,Male,4626457
+2013,Riyadh,Total,7294753
+2013,Makkah,Female,2808256
+2013,Jazan,Female,505093
+2013,Najran,Female,197687
+2013,Al-Bahah,Female,119454
+2013,Al-Madinah,Female,742581
+2013,Asir,Male,989377
+2013,Tabuk,Male,427579
+2013,Eastern Region,Female,1527912
+2013,Al-Qassim,Total,1166736
+2013,Makkah,Male,4483922
+2013,Makkah,Total,7292178
+2013,Tabuk,Female,295829
+2013,Hail,Male,356530
+2013,Hail,Total,602279
+2013,Northern Borders,Total,305467
+2013,Najran,Total,484876
+2013,Al-Jawf,Female,206282
+2013,Al-Jawf,Male,292925
+2013,Total,Total,27624004
+2013,Eastern Region,Total,4256947
+2013,Hail,Female,245749
+2013,Riyadh,Female,2668296
+2013,Asir,Female,676892
+2013,Tabuk,Total,723408
+2013,Northern Borders,Female,127921
+2013,Northern Borders,Male,177546
+2013,Najran,Male,287189
+2013,Al-Bahah,Total,293412
+2013,Total,Male,17050436
+2013,Al-Madinah,Male,1101996
+2013,Al-Madinah,Total,1844577
+2013,Al-Qassim,Female,451616
+2013,Asir,Total,1666269
+2013,Jazan,Male,688802
+2013,Jazan,Total,1193895
+2013,Al-Bahah,Male,173958
+2013,Al-Jawf,Total,499207
+2013,Total,Female,10573568
+2013,Al-Qassim,Male,715120
+2012,Eastern Region,Total,4015832
+2012,Riyadh,Total,6867853
+2012,Makkah,Male,4193912
+2012,Makkah,Total,6910156
+2012,Northern Borders,Total,291604
+2012,Al-Bahah,Male,165215
+2012,Al-Madinah,Female,720475
+2012,Al-Madinah,Male,1034753
+2012,Eastern Region,Female,1475156
+2012,Eastern Region,Male,2540676
+2012,Makkah,Female,2716244
+2012,Asir,Total,1588898
+2012,Northern Borders,Female,123727
+2012,Jazan,Male,651952
+2012,Najran,Female,191070
+2012,Najran,Male,269732
+2012,Al-Bahah,Female,115986
+2012,Al-Jawf,Female,200269
+2012,Total,Female,10219316
+2012,Jazan,Female,489690
+2012,Jazan,Total,1141642
+2012,Total,Total,26168861
+2012,Al-Madinah,Total,1755228
+2012,Al-Qassim,Total,1114675
+2012,Hail,Female,238020
+2012,Hail,Total,573231
+2012,Northern Borders,Male,167877
+2012,Riyadh,Female,2566382
+2012,Tabuk,Female,287207
+2012,Tabuk,Male,402714
+2012,Al-Bahah,Total,281201
+2012,Al-Jawf,Total,477818
+2012,Al-Qassim,Male,676587
+2012,Asir,Female,657002
+2012,Tabuk,Total,689921
+2012,Riyadh,Male,4301471
+2012,Najran,Total,460802
+2012,Al-Jawf,Male,277549
+2012,Total,Male,15949545
+2012,Hail,Male,335211
+2012,Al-Qassim,Female,438088
+2012,Asir,Male,931896
+2011,Makkah,Male,3975219
+2011,Northern Borders,Total,280731
+2011,Najran,Male,256138
+2011,Al-Qassim,Male,647197
+2011,Asir,Total,1529057
+2011,Tabuk,Male,383211
+2011,Al-Madinah,Female,706144
+2011,Riyadh,Male,4053162
+2011,Hail,Male,318522
+2011,Al-Bahah,Male,158534
+2011,Al-Bahah,Total,271954
+2011,Total,Male,15107127
+2011,Al-Bahah,Female,113420
+2011,Al-Jawf,Total,461187
+2011,Total,Female,9984740
+2011,Al-Madinah,Total,1689249
+2011,Eastern Region,Male,2395634
+2011,Northern Borders,Male,160290
+2011,Jazan,Female,478758
+2011,Riyadh,Female,2498573
+2011,Makkah,Female,2665033
+2011,Makkah,Total,6640252
+2011,Tabuk,Female,280593
+2011,Hail,Total,550595
+2011,Jazan,Total,1102242
+2011,Najran,Female,186123
+2011,Najran,Total,442261
+2011,Al-Jawf,Female,195662
+2011,Total,Total,25091867
+2011,Al-Qassim,Female,428184
+2011,Al-Qassim,Total,1075381
+2011,Asir,Female,641951
+2011,Asir,Male,887106
+2011,Eastern Region,Total,3833419
+2011,Al-Madinah,Male,983105
+2011,Al-Jawf,Male,265525
+2011,Hail,Female,232073
+2011,Northern Borders,Female,120441
+2011,Jazan,Male,623484
+2011,Eastern Region,Female,1437785
+2011,Riyadh,Total,6551735
+2011,Tabuk,Total,663804
+2010,Hail,Female,226503
+2010,Najran,Male,242395
+2010,Al-Jawf,Total,444672
+2010,Total,Male,14222836
+2010,Al-Madinah,Male,929322
+2010,Al-Madinah,Total,1621483
+2010,Al-Qassim,Female,418810
+2010,Al-Qassim,Male,615945
+2010,Eastern Region,Female,1402000
+2010,Asir,Male,841987
+2010,Makkah,Total,6350217
+2010,Northern Borders,Total,270097
+2010,Najran,Female,181436
+2010,Al-Bahah,Male,151451
+2010,Al-Jawf,Male,253356
+2010,Total,Total,23978487
+2010,Al-Madinah,Female,692161
+2010,Makkah,Female,2612443
+2010,Makkah,Male,3737774
+2010,Asir,Female,627854
+2010,Hail,Total,528426
+2010,Northern Borders,Female,117382
+2010,Jazan,Female,468339
+2010,Jazan,Male,594156
+2010,Jazan,Total,1062495
+2010,Al-Bahah,Female,111006
+2010,Al-Bahah,Total,262457
+2010,Eastern Region,Male,2245910
+2010,Eastern Region,Total,3647910
+2010,Asir,Total,1469841
+2010,Tabuk,Total,638270
+2010,Riyadh,Female,2431942
+2010,Riyadh,Total,6224033
+2010,Najran,Total,423831
+2010,Al-Jawf,Female,191316
+2010,Total,Female,9755651
+2010,Hail,Male,301923
+2010,Northern Borders,Male,152715
+2010,Al-Qassim,Total,1034755
+2010,Riyadh,Male,3792091
+2010,Tabuk,Female,274459
+2010,Tabuk,Male,363811

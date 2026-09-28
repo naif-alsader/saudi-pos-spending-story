@@ -1,0 +1,135 @@
+== national trend
+               52w_yoy  13w_yoy
+starting_date                  
+2025-01-05         8.3      8.3
+2025-02-02         8.1      8.2
+2025-03-02         7.3      6.8
+2025-03-30         7.2      7.3
+2025-04-27         7.8      7.5
+2025-05-25         7.3      5.6
+2025-06-22         7.4      0.7
+2025-07-20         7.4      5.2
+2025-08-17         7.1      5.3
+2025-09-14         7.1      8.0
+2025-10-12         7.0      7.3
+2025-11-09         6.4      7.1
+2025-12-07         6.3      4.9
+2026-01-04         6.1      4.4
+2026-02-01         6.4      6.6
+2026-03-01         6.5      7.0
+== new/old ratio on overlap weeks
+old
+Beverage and Food                    1.117
+Clothing and Footwear                1.060
+Construction & Building Materials    1.226
+Education                            1.098
+Electronic & Electric Devices        1.080
+Furniture                            1.785
+Gas Stations                         1.001
+Health                               1.199
+Hotels                               1.000
+Jewelry                              1.083
+Public Utilities                     1.000
+Recreation and Culture               1.307
+Restaurants & Café                   0.880
+Telecommunication                    1.307
+Transportation                       1.376
+Name: value, dtype: float64
+== sector yoy
+                                   bn_Jul25_Mar26  ...  adj_yoy%
+old                                                ...          
+Health                                       32.0  ...     -11.7
+Public Utilities                              1.9  ...     -11.6
+Furniture                                    19.6  ...      -7.3
+Electronic & Electric Devices                 7.1  ...      -7.3
+Construction & Building Materials            15.0  ...      -5.8
+Recreation and Culture                       13.0  ...      -5.3
+Transportation                               37.2  ...      -4.0
+Education                                     8.5  ...      -1.3
+Restaurants & Café                           60.7  ...      -0.3
+Gas Stations                                 35.1  ...       4.5
+Hotels                                       12.5  ...       5.1
+Beverage and Food                            89.4  ...       8.3
+Telecommunication                             6.6  ...      14.3
+Clothing and Footwear                        46.8  ...      23.7
+Jewelry                                      15.8  ...      33.1
+
+[15 rows x 4 columns]
+Total yoy: 5.1
+== city yoy
+             bn  yoy%  ratio_ok
+old                            
+BURAIDAH   12.8   9.7       1.0
+MADINA     21.2   6.9       1.0
+MAKKAH     22.7   6.0       1.0
+OTHER     148.6   5.6       1.0
+RIYADH    179.0   5.2       1.0
+ABHA        6.5   5.2       1.0
+HAIL        8.2   5.1       1.0
+KHOBAR     14.6   4.1       1.0
+JEDDAH     71.8   3.6       1.0
+DAMMAM     25.2   3.0       1.0
+TABOUK      9.3   0.2       1.0
+== 61-city levels bn (Jul25-Mar26)
+city
+Riyadh            178.98
+Jeddah             71.84
+Others             35.53
+Dammam             25.23
+Makkah             22.71
+Al-Madinah         21.23
+Al-Khubar          14.61
+Buraidah           12.85
+Al-Tayef           11.91
+Khamis-Mushait     10.71
+Tabouk              9.33
+Hayel               8.23
+Abha                6.51
+Jazan               6.12
+Najran              5.81
+Al-Jubail           5.52
+Al-Hofuf            5.29
+Hafrel-Batin        5.28
+Al-Kharj            4.57
+Yanbu               4.03
+Al-Qateef           3.49
+Onaizah             3.20
+Sakaka              3.10
+Ar'ar               2.35
+Mahayel             2.35
+Al-Rass             2.21
+Al-Baha             2.18
+Besha               1.94
+Al-Dahran           1.90
+Sabya               1.86
+Al-Mubarraz         1.81
+Al-Dawadmi          1.80
+Abu-Areesh          1.70
+Al-Gunfudah         1.70
+Al-Qurayyat         1.56
+Al-Khafji           1.41
+Al-Majma'a          1.32
+Samta               1.12
+Wadil-Dawaser       1.01
+Rafha               0.91
+Saihat              0.91
+Ahad-Rufaidah       0.90
+Sharora             0.90
+Al-Zulfi            0.88
+Al-Muzahmiya        0.88
+Rabehg              0.85
+Tabarjal            0.85
+Afeef               0.81
+Al-Bekairiyah       0.79
+Al-Ola              0.79
+Al-Neairiyah        0.70
+Al-Queyah           0.68
+Baish               0.66
+Amluj               0.64
+Shagraa             0.61
+Ahad-Almasarha      0.53
+Al-Badaea           0.52
+Tareef              0.51
+Al-Darb             0.50
+Al-laith            0.47
+Safwa               0.44
