@@ -2,7 +2,7 @@
 
 A data story on Saudi consumer card spending, May 2020 – July 2026, built from open data on the [KAPSARC Data Portal](https://data.kapsarc.org) (SAMA and GASTAT sources).
 
-**Bottom line:** in-store card spending has matured (growth fell from ~20% to ~5% a year), but online Mada spending is growing ~46% a year and is now ~35% of Mada spend. Buraidah has overtaken Riyadh as the fastest-growing major city, and clothing & apparel is the strongest large sector.
+**Bottom line (v2):** in-store card spending has matured and now grows about as fast as household consumption (+6.3% nominal, +4.2% real). Online Mada payments are growing ~46% a year, but mostly by taking share from other payment methods. Buraidah's lead in city growth is robust; the apparent surge in clothing is largely a 2025 reclassification.
 
 ## Revised findings (v2, after critique and GDP cross-check)
 
@@ -35,7 +35,7 @@ KAPSARC datasets are pulled with `fetch_data.py` (snapshots in `data/raw/`, all 
 
 - **Ramadan-aligned windows.** Growth compares the 52 weeks ending the last full week before Ramadan with the same window a year earlier, so each holds one Ramadan and both Eids.
 - **Linking series.** National and city totals match on the overlap weeks (29 Jun, 6 Jul 2025); `build.py` asserts this.
-- **Sectors.** Food, restaurants (+ bakeries), hotels, gas, utilities and health (medical + pharmacy) match the old definitions exactly on the overlap weeks. Other sectors absorbed merchants from old "Other"/"Misc" and are spliced by their overlap ratio and flagged.
+- **Sectors.** Food, restaurants (+ bakeries), hotels, gas and utilities match the old definitions exactly on the overlap weeks; health (medical + pharmacy) matches within 3%. Other sectors absorbed merchants from old "Other"/"Misc" and are spliced by their overlap ratio and flagged.
 - **Uncertainty.** Paired moving-block bootstrap (block 4 weeks, 4,000 draws) gives 90% ranges and city ranking probabilities.
 - **Real growth.** Deflated by GASTAT CPI (general index or matching division).
 - **Raking.** Region × sector via iterative proportional fitting with three seeds (survey base, alternative mapping, no survey) to show sensitivity. Output: `outputs/raking_region_sector_bn.csv`.
